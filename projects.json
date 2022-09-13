@@ -3,12 +3,14 @@
       "name": "Ratscrew",
       "live": "https://bbakercello.github.io/ratscrew_deploy/",
       "git": "https://github.com/bbakercello/ratscrew_deploy",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "http://www.imgur.com/pictureofproject.png",
+      "dataType": "jsonp"
     },
     {
       "name": "LandPost",
       "live": "https://landpost.herokuapp.com/blog",
       "git": "https://github.com/bbakercello/GA-Project-2",
-      "image": "https://i.imgur.com/xazY3l0.jpg"
+      "image": "https://i.imgur.com/xazY3l0.jpg",
+      "dataType": "jsonp"
     }
   ]
