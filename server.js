@@ -29,6 +29,12 @@ app.get("/about", (req, res) => {
   res.json(about);
 });
 
+// route for retrieving footer info
+app.get("/footer", (req,res)=> {
+  // send projects via JSON
+  res.json(about)
+})
+
 //declare a variable for our port number
 const PORT = process.env.PORT || 4000;
 
