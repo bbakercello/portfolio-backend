@@ -2,5 +2,6 @@
     "name": "Ben Baker",
     "email": "bbakercello@gmail.com",
     "headshot": "https://i.imgur.com/num9Sex.png",
-    "bio": "Fullstack engineer and Musician. For years, I have developed strong skills in collaborating with others and learning new tasks efficiently. I am a former full time cellist and composer and have taken my work ethic and people skills with me in my new venture into the tech industry. Whether in an office, a music studio, an instrument warehouse, or on a stage, I try my hardest to connect and understand other people and their experiences. I believe that any skill can be learned if one learns from others and works hard to understand fundamental concepts in a given field."
+    "bio": "Fullstack engineer and Musician. For years, I have developed strong skills in collaborating with others and learning new tasks efficiently. I am a former full time cellist and composer and have taken my work ethic and people skills with me in my new venture into the tech industry. Whether in an office, a music studio, an instrument warehouse, or on a stage, I try my hardest to connect and understand other people and their experiences. I believe that any skill can be learned if one learns from others and works hard to understand fundamental concepts in a given field.",
+    "dataType": "jsonp"
   }
