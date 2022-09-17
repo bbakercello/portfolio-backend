@@ -31,7 +31,7 @@ app.get("/about", (req, res) => {
 
 // route for retrieving footer info
 app.get("/footer", (req,res)=> {
-  // send projects via JSON
+  // send footer via JSON
   res.json(footer)
 })
 
