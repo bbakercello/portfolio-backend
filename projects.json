@@ -12,5 +12,12 @@
       "git": "https://github.com/bbakercello/GA-Project-2",
       "image": "https://i.imgur.com/xazY3l0.jpg",
       "dataType": "jsonp"
+    },
+    {
+      "name": "anonimusic",
+      "live": "https://vocal-daffodil-44e825.netlify.app/",
+      "git": "https://github.com/hspinks2692/anonimusic_frontend",
+      "image": "https://i.imgur.com/z4ZNYcz.png",
+      "dataType": "jsonp"
     }
   ]
